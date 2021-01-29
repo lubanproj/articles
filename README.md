@@ -1,2 +1,2 @@
 # articles
-awesomes articles
+awesome articles
