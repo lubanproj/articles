@@ -194,5 +194,5 @@ if (depth === 1 && currentBlock) {
 
 compiler.parseComponent(file, [options])得到的只是一个组件的 SFCDescriptor，最终编译成.js 文件是交给 vue-loader 等库来做的。
 
-
+原文：https://meixg.cn/2018/04/23/vue-sfc-parser/
 
