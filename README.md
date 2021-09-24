@@ -29,3 +29,6 @@
 [几种UDP网络库的对比 Raknet,UDT,ENet,kcp](https://blog.csdn.net/dxpqxb/article/details/77259889)
 
 [玩转KCP(4)-FEC(前向纠错)](http://vearne.cc/archives/39331)
+
+## 帧同步
+[干货！光子高级工程师揭秘帧同步游戏的技术实现细节](https://www.youxituoluo.com/528021.html)
