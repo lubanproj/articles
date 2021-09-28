@@ -1,6 +1,4 @@
-# articles
-
-<b> awesome articles </b>
+# Awesome articles
 
 ## ES Modules 相关
 
