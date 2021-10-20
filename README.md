@@ -28,6 +28,8 @@
 
 [玩转KCP(4)-FEC(前向纠错)](http://vearne.cc/archives/39331)
 
+[玩转KCP](http://vearne.cc/archives/39317)
+
 [详解 KCP 协议的原理和实现](https://luyuhuang.tech/2020/12/09/kcp.html)
 
 ## 帧同步
