@@ -36,3 +36,6 @@
 
 ## 帧同步
 [干货！光子高级工程师揭秘帧同步游戏的技术实现细节](https://www.youxituoluo.com/528021.html)
+
+## 技术规划
+[左耳朵耗子的所有博客](https://coolshell.cn/featured)
