@@ -39,3 +39,6 @@
 
 ## 技术规划
 [左耳朵耗子的所有博客](https://coolshell.cn/featured)
+
+## go
+[go语言传参是值传递还是引用传递](https://blog.csdn.net/taoerchun/article/details/119867002)
